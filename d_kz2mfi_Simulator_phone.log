@@ -1,0 +1,13 @@
+2018-07-10 11:31:52,614   ibmiotf.device.Client      INFO    Connected successfully: d:kz2mfi:Simulator:phone
+2018-07-10 11:37:04,660   ibmiotf.device.Client      INFO    Connected successfully: d:kz2mfi:Simulator:phone
+2018-07-10 11:37:14,666   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2018-07-10 11:37:14,666   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2018-07-10 12:20:40,227   ibmiotf.device.Client      INFO    Connected successfully: d:kz2mfi:Simulator:phone
+2018-07-10 12:20:50,234   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2018-07-10 12:20:50,234   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2018-07-10 12:21:12,648   ibmiotf.device.Client      INFO    Connected successfully: d:kz2mfi:Simulator:phone
+2018-07-10 12:21:22,655   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2018-07-10 12:21:22,655   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
+2018-07-10 12:23:16,712   ibmiotf.device.Client      INFO    Connected successfully: d:kz2mfi:Simulator:phone
+2018-07-10 12:23:26,718   ibmiotf.device.Client      INFO    Disconnected from the IBM Watson IoT Platform
+2018-07-10 12:23:26,718   ibmiotf.device.Client      INFO    Closed connection to the IBM Watson IoT Platform
